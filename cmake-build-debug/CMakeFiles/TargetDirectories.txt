@@ -1,0 +1,3 @@
+C:/laivglai/sharaga/c/2-semestr/cmake-build-debug/CMakeFiles/2_semestr.dir
+C:/laivglai/sharaga/c/2-semestr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/laivglai/sharaga/c/2-semestr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
