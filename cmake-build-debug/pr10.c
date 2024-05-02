@@ -8,10 +8,14 @@
 //состоящих из объектов структур, ЗАПРЕЩАЕТСЯ (можно списки/стеки и любые другие типы коллекций на свое усмотрение).
 // 11.Вывести отличников определённой группы;
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
+
+
+
 
 struct Studentik{
     char* surname;
