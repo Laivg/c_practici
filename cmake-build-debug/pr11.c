@@ -69,6 +69,7 @@ void find_excellent_students(struct Studentik* root, char* group) {
 
 int main() {
     struct Studentik* root = NULL;
+    system("chcp 65001");
 
     char* students[][8] = {
             {"Иванов", "Алексей", "м", "МАТ-301", "14", "3", "4", "5"},
